@@ -5,6 +5,7 @@
 
 # 
 .streamlit/secrets.toml
+.daily-rating-env/
 
 # Node artifact files
 node_modules/
